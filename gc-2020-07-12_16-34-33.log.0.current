@@ -1,0 +1,8 @@
+Java HotSpot(TM) 64-Bit Server VM (25.251-b08) for windows-amd64 JRE (1.8.0_251-b08), built on Mar 12 2020 06:31:49 by "" with MS VC++ 10.0 (VS2010)
+Memory: 4k page, physical 16604596k(7294160k free), swap 19094964k(5798084k free)
+CommandLine flags: -XX:-BytecodeVerificationLocal -XX:-BytecodeVerificationRemote -XX:GCLogFileSize=104857600 -XX:InitialHeapSize=265673536 -XX:+ManagementServer -XX:MaxHeapSize=4250776576 -XX:NumberOfGCLogFiles=10 -XX:+PrintGC -XX:+PrintGCCause -XX:+PrintGCDateStamps -XX:+PrintGCDetails -XX:+PrintGCTimeStamps -XX:TieredStopAtLevel=1 -XX:+UseCompressedClassPointers -XX:+UseCompressedOops -XX:+UseGCLogFileRotation -XX:-UseLargePagesIndividualAllocation -XX:+UseParallelGC 
+2020-07-12T16:34:34.047+0800: 0.932: [GC (Allocation Failure) [PSYoungGen: 65024K->8206K(75776K)] 65024K->8222K(249344K), 0.0057589 secs] [Times: user=0.02 sys=0.00, real=0.01 secs] 
+2020-07-12T16:34:34.326+0800: 1.211: [GC (Metadata GC Threshold) [PSYoungGen: 63748K->10541K(75776K)] 63764K->10565K(249344K), 0.0099777 secs] [Times: user=0.02 sys=0.00, real=0.01 secs] 
+2020-07-12T16:34:34.336+0800: 1.221: [Full GC (Metadata GC Threshold) [PSYoungGen: 10541K->0K(75776K)] [ParOldGen: 24K->10129K(113664K)] 10565K->10129K(189440K), [Metaspace: 20696K->20694K(1067008K)], 0.0356111 secs] [Times: user=0.06 sys=0.00, real=0.04 secs] 
+2020-07-12T16:34:34.908+0800: 1.793: [GC (Allocation Failure) [PSYoungGen: 65024K->7454K(75776K)] 75153K->17655K(189440K), 0.0040538 secs] [Times: user=0.00 sys=0.00, real=0.00 secs] 
+2020-07-12T16:34:35.286+0800: 2.171: [GC (Allocation Failure) [PSYoungGen: 72478K->10721K(98816K)] 82679K->24167K(212480K), 0.0062483 secs] [Times: user=0.11 sys=0.01, real=0.01 secs] 
